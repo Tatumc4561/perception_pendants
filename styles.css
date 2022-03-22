@@ -1,8 +1,13 @@
 body {
   background: url(photos/shannon-vandenheuvel-4R20-qlgmP4-unsplash.jpg);
   background-size: 100vw;
-  color: white;
+  background-repeat: no-repeat;
+  color: rgb(211, 109, 109);
+  text-shadow: 2px 2px white;
   display: flex;
   flex-direction: column;
   text-align: center;
+}
+
+footer {
 }
