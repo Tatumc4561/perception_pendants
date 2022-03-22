@@ -1,6 +1,6 @@
 body {
   background: url(photos/shannon-vandenheuvel-4R20-qlgmP4-unsplash.jpg);
-  background-size: contain;
+  background-size: 100vw;
   color: white;
   display: flex;
   text-align: center;
