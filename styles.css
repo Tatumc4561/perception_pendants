@@ -1,4 +1,6 @@
 body {
   background-color: rgba(37, 37, 135, 0.576);
   color: white;
+  display: flex;
+  text-align: center;
 }
