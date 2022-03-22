@@ -3,5 +3,6 @@ body {
   background-size: 100vw;
   color: white;
   display: flex;
+  flex-direction: column;
   text-align: center;
 }
